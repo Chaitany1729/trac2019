@@ -17,5 +17,5 @@ For the details regarding specific projects please visit the following links:
     
 5. [Horn Antenna](https://docs.google.com/document/d/1B1QTeegST8pUi_KyVJA8Lf1NkHKBj1Czl7kqlffUNx0/edit?usp=sharing) 
     
-As a part of the club, I am currently working on the SWAN and the LIGO - India projects. The repository contains the introductory tutorials and documentation.
+As a part of the club, I am currently working on the [SWAN](https://github.com/Chaitany1729/swan-imaging-2020) and the [LIGO - India projects](https://github.com/Chaitany1729/trac2019). (Click on the links for the project specific repositories.) The repository contains the introductory tutorials and documentation.
 
